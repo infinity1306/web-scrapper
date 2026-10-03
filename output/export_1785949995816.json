@@ -1,0 +1,96 @@
+[
+  {
+    "url": "https://mcc.nic.in/",
+    "title": "Medical Counselling Committee (MCC) | India",
+    "description": "",
+    "framework": "WordPress",
+    "metadata": {
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "max-image-preview:large",
+      "keywords": "Home",
+      "generator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+    },
+    "headings": [
+      "LATEST NEWS",
+      "INTRODUCTION",
+      "Useful Links"
+    ],
+    "paragraphs": [
+      "In compliance of the Order of the Hon’ble Supreme Court of India dated 23/03/2012 passed in I.A No. 16/2012 in Civil Appeal No. 1944 of 1993 – Anand S.Biji Vs State of Kerala & Others & vide order dated 09/5/2017 passed in Writ Petition(c ) No.267 of 2017 –Dar-Us-Slam Educational Trust & Ors Vs MCI & Ors. Directorate General of health Services, Ministry of Health & Family Welfare has been entrusted with the responsibility to hold on-line Counselling for 15% AIQ seats for UG courses , 50% AIQ seats for PG courses & 100% seats in Super-specialty courses (DM/Mch) , as per various Gazette notification of NMC, various Court orders & notifications of MoHFW.",
+      "View More",
+      "Install “Sandes“ to get counselling related messages."
+    ],
+    "tables": [],
+    "cards": [],
+    "forms": [],
+    "images": [
+      {
+        "url": "https://cdnbbsr.s3waas.gov.in/s32d969e2cee8cfa07ce7ca0bb13c7a36d/uploads/2022/02/2022021141.png",
+        "alt": "sandes logo"
+      }
+    ],
+    "links": [
+      {
+        "text": "View More",
+        "href": "https://mcc.nic.in/about-department/",
+        "type": "internal"
+      },
+      {
+        "text": "Install “Sandes“ to get counselling related messages.",
+        "href": "https://play.google.com/store/apps/details?id=in.nic.gimkerala&hl=en_IN&gl=US",
+        "type": "external"
+      }
+    ],
+    "pdfs": [],
+    "downloads": [],
+    "emails": [],
+    "phones": [],
+    "address": [],
+    "schema": {}
+  },
+  {
+    "url": "https://mcc.nic.in/about-department/",
+    "title": "About MCC | Medical Counselling Committee (MCC) | India",
+    "description": "",
+    "framework": "WordPress",
+    "metadata": {
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "max-image-preview:large",
+      "keywords": "About, MCC, About MCC",
+      "generator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+    },
+    "headings": [
+      "About MCC",
+      "ROLES & RESPONSIBILITIES OF MCC:",
+      "IMPORTANT JUDGEMENTS/ GAZATTE NOTIFICATIONS IN SHAPING THE POLICIES OF AIQ COUNSELLING SCHEME:",
+      "Types of Counselling:",
+      "UG Counselling:",
+      "PG Counselling:",
+      "MCC conducts Counselling for the following Institutions/Universities:",
+      "Super Specialty Counselling"
+    ],
+    "paragraphs": [
+      "In compliance of the Order of the Hon’ble Supreme Court of India dated 23/03/2012 passed in I.A No. 16/2012 in Civil Appeal No. 1944 of 1993 – Anand S.Biji Vs State of Kerala & Others & vide order dated 09/5/2017 passed in Writ Petition(c ) No.267 of 2017 –Dar-Us-Slam Educational Trust & Ors Vs MCI & Ors. Directorate General of health Services, Ministry of Health & Family Welfare has been entrusted with the responsibility to hold on-line Counselling for 15% AIQ seats for UG courses , 50% AIQ seats for PG courses & 100% seats in Super-specialty courses (DM/Mch) , as per various Gazette notification of NMC, various Court orders & notifications of MoHFW.",
+      "The following roles & responsibilities have been entrusted to MCC of DGHS:",
+      "All the NEET (UG, PG, SS) aspirants are hereby informed that MCC of DGHS conducts counselling mentioned as under:",
+      "The MCC has been entrusted with the responsibility to conduct counselling for 100% seats of the contributing states, for the course of DM/Mch across country for State/ Private College & Deemed Universities by the Directorate General of Health Services, MoHFW, except INI (Institute of National Importance) institutes."
+    ],
+    "tables": [],
+    "cards": [],
+    "forms": [],
+    "images": [],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://mcc.nic.in/",
+        "type": "internal"
+      }
+    ],
+    "pdfs": [],
+    "downloads": [],
+    "emails": [],
+    "phones": [],
+    "address": [],
+    "schema": {}
+  }
+]
